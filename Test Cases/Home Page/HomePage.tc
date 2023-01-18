@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HomePage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>79d95759-324a-4009-b44a-0000faf5a2b2</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>61a27cb8-66ce-45b7-a4c0-7893ec836597</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/New Test Data</testDataId>
+   </testDataLinks>
+</TestCaseEntity>
